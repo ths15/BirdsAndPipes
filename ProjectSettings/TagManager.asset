@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Logic
   - Spawner
+  - AddScoreSound
   layers:
   - Default
   - TransparentFX
